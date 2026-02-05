@@ -1,0 +1,160 @@
+{
+  "book_id": "climate_conscious_absurdist_freedom_constraint",
+  "title": "The Albedo of a Snail",
+  "tagline": "In a world slowly boiling over, the ultimate rebellion is a pointless quest for ice.",
+  "target_words": 70000,
+  "actual_words": 78621,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Banal Apocalypse",
+    "Thermodynamics as Antagonist",
+    "Freedom Through Constrained Choice",
+    "The Absurdity of Preservation"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Snail and the Stillness",
+      "words": 3270
+    },
+    {
+      "ch": 2,
+      "title": "The Ice in the Dignified Hamper",
+      "words": 3200
+    },
+    {
+      "ch": 3,
+      "title": "The Ghost of Coolness",
+      "words": 3100
+    },
+    {
+      "ch": 4,
+      "title": "The Community Centre Cavern",
+      "words": 3300
+    },
+    {
+      "ch": 5,
+      "title": "The Albedo Effect",
+      "words": 3150
+    },
+    {
+      "ch": 6,
+      "title": "Bottlecaps as Currency",
+      "words": 3250
+    },
+    {
+      "ch": 7,
+      "title": "The Hestia Core's Last Hum",
+      "words": 3350
+    },
+    {
+      "ch": 8,
+      "title": "Mr. Finch's Peppermint Calculus",
+      "words": 3220
+    },
+    {
+      "ch": 9,
+      "title": "The Felting Wool Rebellion",
+      "words": 3180
+    },
+    {
+      "ch": 10,
+      "title": "Smooth Jazz Over the Airwaves",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "The Pilgrimage of the Weevily Rice",
+      "words": 3400
+    },
+    {
+      "ch": 12,
+      "title": "The Ceremonial Beer",
+      "words": 3050
+    },
+    {
+      "ch": 13,
+      "title": "The Thermodynamic Heretics",
+      "words": 3320
+    },
+    {
+      "ch": 14,
+      "title": "Swimmy Butter Diplomacy",
+      "words": 3150
+    },
+    {
+      "ch": 15,
+      "title": "The Last Bastion of Refrigeration",
+      "words": 3280
+    },
+    {
+      "ch": 16,
+      "title": "Particleboard and the Great Beyond",
+      "words": 3120
+    },
+    {
+      "ch": 17,
+      "title": "The Percussion of Generators",
+      "words": 3370
+    },
+    {
+      "ch": 18,
+      "title": "A Sauna for Dairy",
+      "words": 3090
+    },
+    {
+      "ch": 19,
+      "title": "The Project Light",
+      "words": 3250
+    },
+    {
+      "ch": 20,
+      "title": "The National Exhalation",
+      "words": 3300
+    },
+    {
+      "ch": 21,
+      "title": "Glacial Purpose",
+      "words": 3160
+    },
+    {
+      "ch": 22,
+      "title": "The Hope Chest Monolith",
+      "words": 3220
+    },
+    {
+      "ch": 23,
+      "title": "The Conquest of a Millimetre",
+      "words": 3100
+    },
+    {
+      "ch": 24,
+      "title": "The Arrow Points Toward Soup",
+      "words": 3350
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a character attempts to trade a useless but beautiful object (like a coral fossil) for a practical necessity (like a battery) in the novel's bottlecap economy.",
+      "Draft a 'Preparedness in the Anthropocene' pamphlet entry for a mundane object (e.g., 'The Strategic Value of a Spare Chopstick').",
+      "Describe a day in the life of one of the Carver twins, masters of the new resource economy, from their perspective.",
+      "Compose the smooth jazz radio host's final, increasingly unhinged broadcast as the station's power finally fails."
+    ],
+    "technical": [
+      "Design a low-tech 'thermal mass cooler' system using only items described in the first chapter (hope chest, foil, magazine, water). Calculate its theoretical efficiency.",
+      "Model the 'albedo effect' project: calculate the surface area and reflective paint needed to lower the temperature of a standard porch by 2°C."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Franz Kafka",
+      "Ursula K. Le Guin",
+      "Samuel Beckett",
+      "Donna Haraway"
+    ]
+  },
+  "cover_prompt": "A lone figure in a heavy, utilitarian coat pushes a small, ornate ice cart across a vast, cracked salt flat under a hazy, oppressive sun, the cart's single block of ice glinting with a desperate, fragile light, in the atmospheric style of Zdzisław Beksiński's dystopian surrealism and the muted, textural despair of Anselm Kiefer, rendered in gritty oil painting and textured impasto, book cover framing with a centered, low-angle composition that emphasizes the immense, empty sky and the snail-like trail left in the salt, dramatic and isolating, lit by the flat, bleaching light of a perpetual noon with a color palette of bleached whites, dusty tans, and the stark, cold blue of the solitary ice, masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
