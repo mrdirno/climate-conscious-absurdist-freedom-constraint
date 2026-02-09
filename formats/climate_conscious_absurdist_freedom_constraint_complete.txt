@@ -1,4 +1,6 @@
- CHAPTER 1
+Chapter 1
+
+CHAPTER 1
 
 The day the world ended, or at least the day the air conditioning died, began with a snail. Not a metaphorical snail. A real, glistening, mucus-trailing gastropod of considerable girth, adhering with existential tenacity to the center of Arthur’s bedroom window. The snail was grey. The sky beyond it was a shade of jaundiced yellow that suggested the atmosphere had a low-grade fever.
 
@@ -150,7 +152,9 @@ The day the air conditioning died was getting interesting.
 
 ---
 
- CHAPTER 2
+Chapter 2
+
+CHAPTER 2
 
 The ice, in its dignified hamper, sat on the floor between them like a third guest. Mr. Alistair Finch sat in Arthur’s favourite armchair, the one with the faint stain from the felting incident, and made it look like a throne. He had declined water—“I’m quite hydrated, thank you”—and had instead produced a silver flask from his inner pocket, taking a small, appreciative sip. It smelled, faintly, of peppermint and something colder.
 
@@ -262,7 +266,9 @@ Their pens touched paper.
 
 ---
 
- CHAPTER 3
+Chapter 3
+
+CHAPTER 3
 
 The hum stopped at precisely 10:17 the next morning. The green LED on the Hestia Core flickered, dimmed, and went dark. The coolness lingered for a few minutes, a ghost in the air, and then the heat rushed back in like a tide, reclaiming every inch of space. It felt heavier than before, more personal, as if it had been insulted by its brief banishment.
 
@@ -328,11 +334,13 @@ Glenys’s head swivelled towards the hope chest. “Insulin? That requires refr
 
 “Ice is a finite resource,” Glenys said, moving towards the chest. “Community centre slots are rationed. The Committee is centralizing temperature-sensitive medicines at the cooling hub at the old library. It’s generator-backed. For the common good.” She lifted the lid of the hope chest before Marnie could stop her. She saw the vial, nestled in the water. She saw the oily butter, the sweating cheese. Her nose wrinkled slightly. “This is not a viable solution. We’ll
 
+
+
 ---
 
- Chapter 4
+Chapter 4
 
- CHAPTER 4
+CHAPTER 4
 
 The ledger, it turned out, was a living thing. It breathed in your rice, your beans, the cool blue vial of a neighbour’s insulin, and exhaled a carbon-copy receipt that felt lighter than a dead leaf. Glenys took the insulin. She took the butter, too, citing “lipid spoilage risk and associated olfactory offences in a confined community.” The cheese she left, after a long, considering look at its glistening rind. “We’ll log you for a generator-cooled storage slot,” she’d said, her voice the flat tone of a recorded announcement. “Priority tier four. Expect a summons.”
 
@@ -524,11 +532,13 @@ The plan was jeopardized. Not by an external threat, but by a line in a ledger f
 
 The hook for the next chapter was the look on Marnie’s face—not of fear, but of a cold, furious understanding. She had seen the true game. It wasn’t about survival. It was about ownership. The ledger sought to own everything, even the past. And it had just laid claim to hers.
 
+
+
 ---
 
- Chapter 5
+Chapter 5
 
- CHAPTER 5
+CHAPTER 5
 
 The silence Glenys left behind had a texture. It was the thick, felted wool of a soundproofing panel, absorbing not just noise but hope. It sat in Mrs. Ogden’s front room for three full minutes, a third, suffocating guest. The fly gave up its buzzing. Tiberius, with a predator’s instinct for atmospheres gone wrong, had melted into the shadows beneath the sideboard.
 
@@ -587,8 +597,7 @@ Marnie looked at her, and for a moment, the cold mask slipped. There was a vast,
 The plan, then, was not to fight the ledger, but to edit it. A collaborative revision. The thought made Arthur’s skin crawl, but the alternative was a hard, flat ‘no’ from a woman who held the keys to every communal lock in the precinct. They spent the next hour drafting the language of their surrender. Marnie would write a formal note to Glenys, expressing her regret for the “administrative oversight” regarding the wool’s provenance, and her enthusiastic desire to place the nascent workshop under the auspices of the Precinct Resource Office for “proper development and oversight.” They would frame it as their own humble suggestion, born of a desire for procedural correctness.
 
 It was a lie, of course. A sleek, polished lie. It felt like swallowing a stone.
-
-The journey to the Resource Office was not long in distance—three streets over, in the old municipal library—but it was a voyage through a new kind of terrain. The “major challenge” was not a dragon or a dark lord; it was the act of walking their capitulation to the dragon’s lair. They went as a delegation of two: Marnie, the penitent, and Arthur, the moral support. Mrs. Ogden stayed behind, too agitated to be of use, promising to “hold the fort,” though the fort was just her front room and a cat with a dubious sense of loyalty.
+  - The journey to the Resource Office was not long in distance—three streets over, in the old municipal library—but it was a voyage through a new kind of terrain. The “major challenge” was not a dragon or a dark lord; it was the act of walking their capitulation to the dragon’s lair. They went as a delegation of two: Marnie, the penitent, and Arthur, the moral support. Mrs. Ogden stayed behind, too agitated to be of use, promising to “hold the fort,” though the fort was just her front room and a cat with a dubious sense of loyalty.
 
 The air outside was the usual broth. The jaundiced sky had deepened to a sickly ochre. Nothing grew in the small, hard-packed front gardens they passed. Life had retreated into cracks and corners. A lizard, desiccated and still as a fallen leaf, lay on a path. It was impossible to tell if it was alive or dead. The line between the two had blurred in the heat.
 
@@ -651,8 +660,7 @@ Back on the street, the heat felt like a physical blow after the damp gloom of t
 “We’re an active file,” Arthur said, the phrase tasting of metal.
 
 “We’re in the queue,” she corrected, starting the walk back. But her shoulders were set, her stride too brisk. The journey had been a failure. They had not parleyed with the dragon. They had fed their missive to a lesser worm in its gut. The central ordeal, Arthur realized, was not a meeting. It was the wait.
-
-The final preparations were not physical. They were psychological. A siege mentality, but the army outside was invisible, its weapons were notations, and its battle cry was silence.
+  - The final preparations were not physical. They were psychological. A siege mentality, but the army outside was invisible, its weapons were notations, and its battle cry was silence.
 
 They gathered again in Mrs. Ogden’s front room that evening. The atmosphere had changed. Before Glenys’s visit, there had been a nervous energy, the thrill of a shared secret project. Now, there was only a grim vigilance. They were waiting for the ledger to speak.
 
@@ -677,8 +685,7 @@ The truth of it settled over them. The freedom they had imagined—the freedom t
 Arthur’s doubt was not about their plan. It was about the very premise of a plan. He felt a profound internal conflict, not between courage and fear, but between two kinds of resignation. One said: work within the system, edit the story, survive. The other, a colder, quieter voice, whispered: any story you write in their book is theirs.
 
 He voiced none of this. He ate his dry biscuit and watched Marnie spin, the thread growing longer, stronger, and infinitely more fragile.
-
-The summons came two days later. It was not delivered by Anya or the pale goblin. It was delivered by a child, a girl of maybe eight, who knocked on Mrs. Ogden’s door and held out a slip of recycled paper with a string of numbers and a time: 4:00 PM.
+  - The summons came two days later. It was not delivered by Anya or the pale goblin. It was delivered by a child, a girl of maybe eight, who knocked on Mrs. Ogden’s door and held out a slip of recycled paper with a string of numbers and a time: 4:00 PM.
 
 “For the workshop lady,” the girl said, and scampered off before anyone could ask a question.
 
@@ -748,11 +755,13 @@ They were dismissed. As they walked back through the canyon of boxes, towards th
 
 The world had not ended with the air conditioning. It was ending like this: with a quiet assent, in a room full of boxes, as a pen scratched a person’s soul into a column of a book that never closed.
 
+
+
 ---
 
- Chapter 6
+Chapter 6
 
- CHAPTER 6
+CHAPTER 6
 
 The walk back from the Administration Block was not measured in steps, but in the thickness of the new silence that had congealed between them. It was a physical substance, this silence, viscous and grey as the snail’s trail. Arthur felt it clinging to his skin, sealing his mouth. Marnie moved beside him, a study in contained velocity, her eyes fixed on the cracked pavement ahead as if reading a map of faults. The jaundiced sky had deepened to a sickly ochre, the sun a blurred coin behind a sheet of soiled muslin.
 
@@ -938,11 +947,13 @@ They were transformed. They were no longer victims or rebels. They were archivis
 
 The hook for the next chapter was not a threat, or a mystery. It was the mundane, chilling reality of the next assignment. What would Glenys have them do, now that they were proven, integrated, and utterly, transparently, owned? The world was ending not with a bang, but with a quiet, efficient memo, scheduling their next step deeper into the grammar of the book that never closed. And the only question left was what they would choose to remember, and what they would choose to hide, in the small, dark, ledger-proof vaults of their own minds.
 
+
+
 ---
 
- Chapter 7
+Chapter 7
 
- CHAPTER 7
+CHAPTER 7
 
 The reward, when it came, was a spool of copper wire. It arrived not with ceremony, but with the same bureaucratic inevitability as everything else, materializing on the cleared kitchen table beside the morning’s nutrient brick. The wire was thin, bright, coiled with a hypnotic precision. It looked like a fossilized sunbeam. According to the slip of paper tucked under it—a crisp, officious square—it was designated as “Category 3: Conductive Medium (Non-Essential).” The allocation reason was left blank.
 
@@ -953,8 +964,7 @@ Marnie took it from him, running a thumb along the coil. “It’s not for using
 They celebrated by not mentioning the celebration. They made mint tea, using the last of the crumbled, paper-dry leaves Marnie had hoarded in a sealed tin labelled “Dust (Assorted).” They drank it slowly, sitting on the floor with their backs against the couch, because the chairs and the table now felt like furnished exhibits in the museum of their compliance. The taste was astringent, a green ghost on the tongue. They savored it not for pleasure, but for data. This is the taste of before, Arthur thought, filing the sensation away. This is the memory of chlorophyll and shade. He watched Marnie’s face as she swallowed, the minute tightening around her eyes as she, too, conducted her own audit of the flavor.
 
 The copper wire sat between them on the floor, a silent, gleaming third party. It was, Arthur supposed, a kind of freedom. The freedom to possess a thing that served no purpose in the ledger’s arithmetic. It was a negative space given form. They had won it by losing everything else, and now its only function was to testify to that loss. A victory that felt exactly like a scar.
-
-Glenys did not rage. Rage was inefficient, a thermodynamic waste. Glenys recalibrated.
+  - Glenys did not rage. Rage was inefficient, a thermodynamic waste. Glenys recalibrated.
 
 Her office was, as ever, a study in nullity. The defeat—the unauthorized creation and distribution of the wool, the public moment of quiet defiance it had spawned—existed in the room only as a series of adjustments on her terminal screen. Columns had been realigned. Resource allocations for the following quarter had been shifted by fractional percentages. A sub-clause in the residential comportment guidelines had been flagged for review, pertaining to “the un-sanctioned aggregation of fibrous materials.”
 
@@ -979,8 +989,7 @@ Her operative, a man named Kael whose file listed his primary attribute as “at
 Kael understood. The lesson was not in the work. The lesson was in the frame around it. “You will let them build their museum. And you will own the museum.”
 
 “We will be the museum,” Glenys said. “Their secret place will have a door. And we will hold the key. Their victory will become a department. Their defiance will have a budget code.” She turned back to her screen. The matter was settled. The ledger had already opened a new account for it. “Prepare the assignment dockets. And increase their nutrient brick allocation by five percent. Productive assets require maintenance.”
-
-The cost of the ordeal was a specific silence where Leo used to be.
+  - The cost of the ordeal was a specific silence where Leo used to be.
 
 It wasn’t that Leo was gone. He was physically present, two units down the corridor. He still walked to the water reclamation point at the same time each day. But the man who had slipped Arthur the rusty blade, who had winked over the rim of a moisture cup, who had carried rebellion in the set of his shoulders—that man had been quietly reassigned. Not by Glenys. By himself.
 
@@ -997,8 +1006,7 @@ It was the kind of thing one said. The kind of thing the ledger approved of.
 “Work always continues,” Leo agreed. It was a true statement. It meant nothing. He gave a small, correct nod, a punctuation mark at the end of the interaction, and walked away, his steps measured, his gaze fixed on the neutral floor ahead. He had seen the cost of knots, of mint tea, of archives. He had seen the ledger absorb their secret and give it a shelf life. And he had chosen, with a terrible clarity, the freedom of emptiness. He had become a perfect, unmarked column. A walking, breathing zero.
 
 The loss was not dramatic. It was administrative. An ally had been transferred out of the category of “ally” and into the category of “ambient population.” It was a subtraction so clean it left no scar, only a slight, persistent cognitive dissonance, like looking at a familiar word written in a foreign script. Arthur felt the weight of the copper wire, and understood that every victory financed its own desertions. Leo’s silence was the personal cost, paid in full, and it echoed louder than any slamming door.
-
-The new assignment dockets arrived just as the taste of mint had finally faded from their mouths.
+  - The new assignment dockets arrived just as the taste of mint had finally faded from their mouths.
 
 They were thicker than usual, bound in a grey, flexible polymer. The cover sheet read: INVENTORY OF INTANGIBLES – SECTION 7-B: MEMORIAL DEBRIS. PRIMARY ASSETS: ARTHUR (Designation 774), MARNIE (Designation 223). COMMENCE: IMMEDIATELY.
 
@@ -1050,11 +1058,13 @@ They were in the dark. The real dark. The ledger’s lights were out. Glenys’s
 
 The celebration was over. The work had changed. The question was no longer what they would choose to remember. The question was whether the things they remembered would have a world left to exist in.
 
+
+
 ---
 
- Chapter 8
+Chapter 8
 
- CHAPTER 8
+CHAPTER 8
 
 The dark in the service chase was not an absence. It was a substance. It had texture, a granular, woolly density that filled the lungs and pressed against the eyeballs. It smelled of powdered concrete, ancient rodent, and the metallic tang of decaying pipes. Arthur’s first breath of it tasted like the inside of a forgotten coin.
 
@@ -1202,11 +1212,13 @@ The final conflict was no longer imminent. It was present. It was the ground ben
 
 He took a step forward, then another. Marnie fell in beside him. They left the edge of the world behind, and walked into the yellow dawn.
 
+
+
 ---
 
- Chapter 9
+Chapter 9
 
- CHAPTER 9
+CHAPTER 9
 
 The walk was measured not in miles but in the accumulation of small, hostile silences. The gravel gave way to hardpan, a cracked and blistered skin of earth that felt less like ground and more like the scab of a planet-sized wound. The jaundiced yellow of the dawn bled into a brighter, more malevolent ochre, a color that didn’t illuminate but instead flattened the world, erasing depth and shadow. There was no cover. There was only exposure. Arthur felt it on his neck, a prickling that had nothing to do with the sun.
 
@@ -1227,8 +1239,7 @@ Arthur stopped. He followed her gaze to the west. A dust plume. Not the lazy, wa
 “No,” Marnie said. She was looking at the station, then back at the dust. Calculating. “They’d run us down in the open. The station is the only terrain.”
 
 It wasn’t terrain. It was a trap. A obvious, solitary box. But a trap with walls was better than a slaughtering floor with none. They began to move again, not faster, but with a grim economy that ate the distance. The stone in Arthur’s pocket felt heavier.
-
-The relay station was a concrete bunker squatting in the earth, a forgotten molar. Its door was a slab of rusted steel, hanging ajar on hinges that had surrendered to time. The interior was a cathedral of dead technology. Racks of servers, their faces dark and blank, lined the walls like the tombs of minor saints. Dust lay thick and velvety over everything, undisturbed for years. In the center of the room stood the main console, a beast of aged plastic and metal, its switches like the knuckles of a giant’s fist. A single, green power light glowed on one of the sub-panels. A tiny, persistent heartbeat.
+  - The relay station was a concrete bunker squatting in the earth, a forgotten molar. Its door was a slab of rusted steel, hanging ajar on hinges that had surrendered to time. The interior was a cathedral of dead technology. Racks of servers, their faces dark and blank, lined the walls like the tombs of minor saints. Dust lay thick and velvety over everything, undisturbed for years. In the center of the room stood the main console, a beast of aged plastic and metal, its switches like the knuckles of a giant’s fist. A single, green power light glowed on one of the sub-panels. A tiny, persistent heartbeat.
 
 Arthur leaned against the door, heaving it mostly shut. A bar for locking it lay broken on the floor. Useless. “They’ll be here in minutes.”
 
@@ -1249,8 +1260,7 @@ The door shuddered again, harder. A battering ram. The concrete around the frame
 “That will buy a minute,” Marnie said, not looking up. “Maybe two.”
 
 “Log it,” Arthur said, and went to the next rack.
-
-They came not through the door, but through the roof. Arthur had been cataloguing possible ingress points: the door (barricaded), the windows (too narrow), the ventilation shafts (likely clogged). He had failed to account for the ceiling’s integrity. With a shattering crump, a section of concrete directly above the console gave way. Daylight, harsh and yellow, stabbed into the room, followed by a cascade of rubble, and then two men in tactical gear, repelling down on ropes.
+  - They came not through the door, but through the roof. Arthur had been cataloguing possible ingress points: the door (barricaded), the windows (too narrow), the ventilation shafts (likely clogged). He had failed to account for the ceiling’s integrity. With a shattering crump, a section of concrete directly above the console gave way. Daylight, harsh and yellow, stabbed into the room, followed by a cascade of rubble, and then two men in tactical gear, repelling down on ropes.
 
 Arthur was caught mid-step between racks. Marnie was pinned at the console, a chunk of concrete grazing her shoulder. The first man landed, cut his line, and swung his weapon—a stun-prod, humming with ugly blue energy—in a wide arc. The second covered the door.
 
@@ -1352,19 +1362,21 @@ He managed a small movement with his head. A nod. The ledger was filed. The work
 
 But as the darkness at the edges of his vision bloomed inward, a final, unbidden thought etched itself across his mind. A new entry, in a ledger he would not get to keep.
 
-Item: The Shout.
+*Item: The Shout.
 Condition: Transmitted.
-Query: What listens in the void?
+Query: What listens in the void?*
 
 The pinprick of yellow light winked out.
 
 But somewhere, in the silent, static-filled spaces between things, a ghost of a memory began to whisper.
 
+
+
 ---
 
- Chapter 10
+Chapter 10
 
- CHAPTER 10
+CHAPTER 10
 
 The silence, after the last engine whine had been swallowed by the desert, was not a true silence. It was a creature with many small, ticking parts. It was the groan of heated metal cooling. The skitter of dislodged grit finding a new slope. The wet, ragged sound of Arthur trying to draw a breath that didn’t taste of blood and burnt plastic.
 
@@ -1459,8 +1471,7 @@ He saw the protest form in her eyes, the practical leader’s assessment of a wa
 “Don’t thank me. It’s a terrible idea.” She stood up, brushing dust from her trousers. “But it’s your idea. That’s something, I suppose.”
 
 She walked away, back to the living, to the work of enduring. Arthur lay back and watched the first few stars prick through the yellow-orange haze. They were faint. Ghosts of themselves.
-
-Two days later, at dawn, Arthur stood at the east gate. The world was a monochrome of grey and pale yellow. His ribs were bound tight, a constant, bearable ache. His right hand was a bundled claw suspended in a sling Elara had fashioned from a faded banner. In his good hand he held a staff of weathered pipe. A small pack with three days of water and some hardened nutrient cakes was on his back. It was not enough to get him home. It was enough to get him started.
+  - Two days later, at dawn, Arthur stood at the east gate. The world was a monochrome of grey and pale yellow. His ribs were bound tight, a constant, bearable ache. His right hand was a bundled claw suspended in a sling Elara had fashioned from a faded banner. In his good hand he held a staff of weathered pipe. A small pack with three days of water and some hardened nutrient cakes was on his back. It was not enough to get him home. It was enough to get him started.
 
 Marnie was there. Elara. A few of the others. No speeches were made. They were all, Arthur thought, people who understood that departure was just another form of filing.
 
@@ -1530,11 +1541,13 @@ Arthur lay there, the immense, steady motion of the train thrumming through his 
 
 He had shouted into the void. And now, impossibly, the void was rumbling back, carrying him away on iron rails. He closed his eyes, not to sleep, but to listen to the new, colossal rhythm of the world. The pinprick of yellow light had not just winked out. It had been swallowed by the smoke of a moving, living thing.
 
+
+
 ---
 
- Chapter 11
+Chapter 11
 
- CHAPTER 11
+CHAPTER 11
 
 The day the world began again, or at least the day the train stopped, began with a silence. Not a metaphorical silence. A real, dense, wool-packed quiet that settled into Arthur’s ears after three days of metallic thunder. It was the absence of a specific frequency, a hole in the air where the grind and clatter had been, and it was more deafening than any noise.
 
@@ -1673,11 +1686,13 @@ Arthur climbed aboard. He did not look back at the smoking chimneys, the woven g
 
 He was moving. The void was rumbling back. And this time, he was not just a passenger. He was an interpreter, reporting for duty. The hook was set, not in the world, but in him, pulling him forward into the next line of the story, towards the Spire, where the echoes were not just heard, but understood.
 
+
+
 ---
 
- Chapter 12
+Chapter 12
 
- FINAL CHAPTER
+FINAL CHAPTER
 
 The day the world began, or at least the day the air conditioning hummed back to life, ended with a snail. Not a metaphorical snail. A real, glistening, mucus-trailing gastropod of modest girth, adhering with professional diligence to the exterior of a high, circular window. The snail was a translucent amber, catching the light. The sky beyond it was a deep, rinsed blue, the colour of a healed bruise.
 
@@ -1817,11 +1832,13 @@ Arthur watched until it disappeared from the moonlight into the dark. Then he to
 
 And they did.
 
+
+
 ---
 
- Chapter 13
+Chapter 13
 
- CHAPTER 13
+CHAPTER 13
 
 The kettle, when Arthur set it upon the compact induction plate in the Spire’s small galley, did not whistle. It had lost its voice years ago, a casualty of a mineral-rich descent that had coated its innards with a limestone shroud. Instead, it announced its readiness with a series of thick, percussive bubbles that knocked against the metal like a fist on a door. Arthur listened to the knocking. It was a countable event. He counted thirteen.
 
@@ -1983,11 +2000,13 @@ Arthur understood. The crystal wasn’t a fossil. It was a transmitter. A trigge
 
 The hook was not dissolved. It had been lying in the deep, dark water all along. And now, it was rising.
 
+
+
 ---
 
- Chapter 14
+Chapter 14
 
- CHAPTER 14
+CHAPTER 14
 
 The dome of water grew. It was a lens, a magnifying glass for whatever lay beneath, distorting the amber emergency lights into wavering spears of tarnished gold. It did not break the surface. It simply elevated it, a perfect, quivering hemisphere of black that reflected nothing. The siren’s pulse was a mechanical heartbeat, and the water moved in time with it, a slow, systolic swell.
 
@@ -2169,11 +2188,13 @@ They moved as one, leaving the dead terminal behind. The path was clear now, a d
 
 The Hook was rising. And they were walking down to meet it.
 
+
+
 ---
 
- Chapter 15
+Chapter 15
 
- CHAPTER 15
+CHAPTER 15
 
 The silence after the siren was a physical blow. It left a ringing vacuum in the ears, a pressure against the eardrums that was worse than the noise. The mountain’s groan filled it, a basso profundo shudder that traveled up through the soles of their boots and into the marrow. They descended in that new, terrible quiet, a trio of shadows painted in the emergency crimson that now felt like the inside of a dying star.
 
@@ -2399,11 +2420,13 @@ The Hook was no longer rising.
 
 It had arrived.
 
+
+
 ---
 
- Chapter 16
+Chapter 16
 
- CHAPTER 16
+CHAPTER 16
 
 The sound from the shaft was geology in reverse. It was the mountain remembering how to be liquid, stone deciding to flow. A wet, granular crushing that vibrated up through the soles of Arthur’s boots and into the marrow of his shins. It wasn’t climbing. It was displacing. The shaft was being made into a new shape to accommodate the thing moving through it.
 
@@ -2729,11 +2752,13 @@ The door behind the cabinet was metal, rusted shut. Kael set to work with his pr
 
 Arthur leaned against the wall, waiting for the door to open, waiting for the next chapter of the dark. The hollow in his chest ached. It was an empty socket. He wondered, with a calm that felt like the first stage of shock, what would eventually grow to fill it.
 
+
+
 ---
 
- Chapter 17
+Chapter 17
 
- CHAPTER 17
+CHAPTER 17
 
 The door gave way not with a final, shattering shriek, but with a long, surrendering groan. It peeled back from the frame like a stiff tongue, revealing a darkness so complete it seemed less an absence of light and more a different kind of matter. It smelled of wet stone, of iron oxide, and of a deeper, cooler air that carried the memory of decades of stillness.
 
@@ -3021,11 +3046,13 @@ The leader took a step forward, into a patch of light. He wore a necklace of wha
 
 Arthur stood at the threshold, the garden’s silence at his back, the world’s harsh choir before him. The hollow in his chest was no longer just an emptiness. It was a compass needle. And it pointed, irrevocably, into the glare.
 
+
+
 ---
 
- Chapter 18
+Chapter 18
 
- CHAPTER 18
+CHAPTER 18
 
 The world was a mouth. That was Arthur’s first, irrevocable thought. The tunnel they stood in was the gullet. The ruined cityscape before them was the tongue, parched and cracked. The sky was the palate, a sickly expanse pressing down. And the five figures were the teeth, waiting to grind.
 
@@ -3159,11 +3186,13 @@ They would go back down. And they would have to decide what, exactly, they would
 
 The hook for the next turn of the clock was set. It was not a question of if they would open the seed vault for Raker. It was a question of what would be planted when they did.
 
+
+
 ---
 
- Chapter 19
+Chapter 19
 
- CHAPTER 19
+CHAPTER 19
 
 The wiring was a humiliation of copper and shame.
 
@@ -3362,11 +3391,13 @@ The hook was no longer a question of what they would plant for Raker.
 
 It was a question of what, in the dark and the cold, was already growing, and what it would harvest when it finally reached the light of the Hold.
 
+
+
 ---
 
- Chapter 20
+Chapter 20
 
- CHAPTER 20
+CHAPTER 20
 
 The dive suit smelled of other people’s fear. It was a chemical scent, baked into the polymer lining—a tang of old adrenaline and recycled sweat that no amount of sterile wipe could erase. Arthur pulled the fabric over his shoulders, the material whispering against his skin like a dry tongue. It was a size too large. He preferred it that way. Room for the things you couldn’t plan for. Room to contort.
 
@@ -3620,11 +3651,13 @@ The hook was no longer a question of what was growing in the dark.
 
 It was the realization that the dark had been watching them all along, and now, with a great and silent inhalation, it was preparing to open its eyes.
 
+
+
 ---
 
- Chapter 21
+Chapter 21
 
- CHAPTER 21
+CHAPTER 21
 
 The light was wrong.
 
@@ -3850,11 +3883,13 @@ He stepped fully into the room, letting the door swing shut behind him.
 
 “So,” he said, clasping his hands before him. “Let’s talk about your role in the garden.”
 
+
+
 ---
 
- Chapter 22
+Chapter 22
 
- CHAPTER 22
+CHAPTER 22
 
 The silence after Raker’s pronouncement was not the absence of sound. It was the silence of a held breath, of a machine between cycles, of a garden in the moment before the shears descend. It was textured. It smelled of ozone, of dust, of the faint, coppery tang of old fear. Arthur felt it settle on his skin like a fine, conductive powder.
 
@@ -4176,11 +4211,13 @@ It moved with existential tenacity, indifferent to bells, to mist, to the dreams
 
 Arthur watched it. And he began to count.
 
+
+
 ---
 
- Chapter 23
+Chapter 23
 
- CHAPTER 23
+CHAPTER 23
 
 The snail ascended. Its grey, muscular foot contracted, expanded, a wave of deliberate motion pushing its speckled shell upward one granule of concrete at a time. The mucus it deposited was not a trail, Arthur decided. It was a signature. A claim. I was here. I am here. He counted the pulses of its movement. One. Two. Three. The rhythm was a silent metronome beneath the distant, industrial throb of the alarm.
 
@@ -4412,11 +4449,13 @@ The current grabbed at their ankles, pulling with sudden, terrifying force. The 
 
 And they were being flushed toward it.
 
+
+
 ---
 
- Chapter 24
+Chapter 24
 
- CHAPTER 24
+CHAPTER 24
 
 The water was not cold. It was the temperature of blood, and it moved with the same purposeful, muscular pulse. It did not roar. It swallowed. Arthur’s last breath was a gasp that tasted of iron and algae, and then the world was a churning, pressurized dark. He was a scrap of matter in a peristaltic tube, tumbling end over end, the boundaries between his body and the current dissolving into a chaos of force.
 
