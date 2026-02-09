@@ -1,3 +1,5 @@
+# Chapter 1
+
 ## CHAPTER 1
 
 The day the world ended, or at least the day the air conditioning died, began with a snail. Not a metaphorical snail. A real, glistening, mucus-trailing gastropod of considerable girth, adhering with existential tenacity to the center of Arthur’s bedroom window. The snail was grey. The sky beyond it was a shade of jaundiced yellow that suggested the atmosphere had a low-grade fever.
@@ -150,6 +152,8 @@ The day the air conditioning died was getting interesting.
 
 ---
 
+# Chapter 2
+
 ## CHAPTER 2
 
 The ice, in its dignified hamper, sat on the floor between them like a third guest. Mr. Alistair Finch sat in Arthur’s favourite armchair, the one with the faint stain from the felting incident, and made it look like a throne. He had declined water—“I’m quite hydrated, thank you”—and had instead produced a silver flask from his inner pocket, taking a small, appreciative sip. It smelled, faintly, of peppermint and something colder.
@@ -261,6 +265,8 @@ Their pens touched paper.
 [Chapter 2 End - 2,512 words]
 
 ---
+
+# Chapter 3
 
 ## CHAPTER 3
 
